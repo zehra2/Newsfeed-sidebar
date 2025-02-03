@@ -1,0 +1,8 @@
+/*
+ * Copyright 2023-2024 Sngine mods
+ * Licensed under MIT (https://snginemods.com/)
+ * Mod Styles for Sngine
+*/
+.avatarz {--bs-avatar-width: 32px;position: relative;width: var(--bs-avatar-width);height: var(--bs-avatar-width);display: inline-flex;align-items: center;justify-content: center;color:#333;line-height: 1;font-size: 14px;border-radius: 50%;-o-object-fit: cover;object-fit: cover;background-color:#fff;}.avatarz > img, .avatarz > svg {display: inline-block;height: 100%;width: 100%;-o-object-fit: cover;object-fit: cover;border-radius: 50%;}.avatar-group {display: flex;flex-wrap: wrap;gap: 0.125rem;}.avatar-stack {display: flex;flex-direction: row-reverse;flex-wrap: wrap;justify-content: flex-end;}.avatar-stack .avatarz {overflow: hidden;margin-left: -8px;border: 2px solid white;}.avatar-stack .avatarz:last-child > .avatar-stack .avatarz {margin-left: 0;}.avatar-stack span.totalz{display:inline-block;padding-top:6px;margin-left:6px;font-weight:700;font-size:20px;}
+
+
